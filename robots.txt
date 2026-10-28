@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fnaime13-max.github.io/brunacavallaro/sitemap.xml
